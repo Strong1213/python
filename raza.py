@@ -7,3 +7,10 @@ print(sum)
 a1=[12,34,89,98]
 b1=[67,45,23,90,]
 print(a)
+dict = {
+    "nane": "rahul",
+    "age": 25,
+    "city": "delhi"
+}
+
+print(dict["nane"])
